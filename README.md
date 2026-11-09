@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>AI Enthusiast · Computer Science Undergraduate @ University of Sahiwal</b><br>
+  AI Automation | Digital Marketing | SEO | eBay Dropshipping | Frontend Developer<br>
   I build AI-powered tools and evaluate what AI systems get right — and wrong.
 </p>
 
@@ -11,6 +12,8 @@
 
 - 🔍 **AI-assisted research** — gathering sources, synthesizing findings, and verifying every claim
 - 🤖 **AI automation & LLM projects** — prompt engineering, output evaluation, workflow automation
+- 📈 **Digital Marketing & SEO** — campaigns, content planning, audits and growth tools
+- 🛒 **eBay dropshipping & marketplace management** — product research, pricing and seller tools
 - 🌐 **Web development** — building clean, functional websites and tools
 
 ### 🏆 Certifications — Google via Coursera
@@ -26,14 +29,30 @@
 
 ### 🛠️ Tech stack
 
-`Python` `JavaScript` `HTML/CSS` `Prompt Engineering` `LLMs (Gemini)` `Git` `Google Workspace`
+`Python` `JavaScript` `HTML/CSS` `React` `Prompt Engineering` `LLMs (Gemini)` `Git` `Google Workspace`
 
-### 📌 Featured project
+### 📌 Featured projects
 
 **[AI Research Assistant](https://github.com/Hasnaat33/ai-research-assistant)** — give it a research
 question and sources; it gathers, synthesizes cited findings, and runs a
 verification pass that flags ungrounded claims. Built with Python, zero API
 key required for the offline mode.
+
+**[AI Email Reply Generator](https://github.com/Hasnaat33/ai-email-reply-generator)** — paste any
+email and get 3 ready-to-send replies in your tone. It detects intent,
+questions, urgency and dates, with no API key needed. Built with Python for
+freelancers, sellers and small business owners. *(Daily Project Series — Day 1: AI Automation, 10 Nov 2026)*
+
+### 🚀 Daily Project Series
+
+I ship **one practical project every day**, rotating through AI Automation,
+Digital Marketing, SEO, eBay Dropshipping, Marketplace Seller Tools and
+Frontend Development — each one built to help freelancers, sellers,
+marketers and small business owners.
+
+| Day | Topic | Project |
+|---|---|---|
+| 1 | AI Automation | [AI Email Reply Generator](https://github.com/Hasnaat33/ai-email-reply-generator) |
 
 ### 📊 GitHub stats
 
