@@ -33,12 +33,12 @@
 
 ### 📌 Featured projects
 
-**[AI Research Assistant](https://github.com/Hasnaat33/ai-research-assistant)** — give it a research
+**[AI Research Assistant](https://github.com/hasnaat-anjum/ai-research-assistant)** — give it a research
 question and sources; it gathers, synthesizes cited findings, and runs a
 verification pass that flags ungrounded claims. Built with Python, zero API
 key required for the offline mode.
 
-**[AI Email Reply Generator](https://github.com/Hasnaat33/ai-email-reply-generator)** — paste any
+**[AI Email Reply Generator](https://github.com/hasnaat-anjum/ai-email-reply-generator)** — paste any
 email and get 3 ready-to-send replies in your tone. It detects intent,
 questions, urgency and dates, with no API key needed. Built with Python for
 freelancers, sellers and small business owners. *(Daily Project Series — Day 1: AI Automation, 10 Nov 2026)*
@@ -52,12 +52,12 @@ marketers and small business owners.
 
 | Day | Topic | Project |
 |---|---|---|
-| 1 | AI Automation | [AI Email Reply Generator](https://github.com/Hasnaat33/ai-email-reply-generator) |
+| 1 | AI Automation | [AI Email Reply Generator](https://github.com/hasnaat-anjum/ai-email-reply-generator) |
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnaat33&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnaat-anjum&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
 ### 📫 Reach me
