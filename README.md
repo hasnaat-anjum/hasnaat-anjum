@@ -43,6 +43,11 @@ email and get 3 ready-to-send replies in your tone. It detects intent,
 questions, urgency and dates, with no API key needed. Built with Python for
 freelancers, sellers and small business owners. *(Daily Project Series — Day 1: AI Automation, 10 Nov 2026)*
 
+**[Social Media Content Planner](https://github.com/hasnaat-anjum/social-media-content-planner)** — generate a
+30-day content calendar with ready-to-post captions, hashtags and best posting
+times for Instagram, Facebook, TikTok, LinkedIn and X. No API key needed.
+Built with Python for freelancers, sellers and small business owners. *(Daily Project Series — Day 2: Digital Marketing, 11 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -53,6 +58,7 @@ marketers and small business owners.
 | Day | Topic | Project |
 |---|---|---|
 | 1 | AI Automation | [AI Email Reply Generator](https://github.com/hasnaat-anjum/ai-email-reply-generator) |
+| 2 | Digital Marketing | [Social Media Content Planner](https://github.com/hasnaat-anjum/social-media-content-planner) |
 
 ### 📊 GitHub stats
 
