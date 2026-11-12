@@ -48,6 +48,12 @@ freelancers, sellers and small business owners. *(Daily Project Series — Day 1
 times for Instagram, Facebook, TikTok, LinkedIn and X. No API key needed.
 Built with Python for freelancers, sellers and small business owners. *(Daily Project Series — Day 2: Digital Marketing, 11 Nov 2026)*
 
+**[SEO Website Audit Tool](https://github.com/hasnaat-anjum/seo-website-audit-tool)** — audit any web page
+for on-page SEO issues and get a scored report (0–100, grade A–F) in Markdown,
+JSON or HTML. Checks titles, headings, alt text, Open Graph, structured data
+and more, with no API key needed. Built with Python for freelancers, sellers
+and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -59,6 +65,7 @@ marketers and small business owners.
 |---|---|---|
 | 1 | AI Automation | [AI Email Reply Generator](https://github.com/hasnaat-anjum/ai-email-reply-generator) |
 | 2 | Digital Marketing | [Social Media Content Planner](https://github.com/hasnaat-anjum/social-media-content-planner) |
+| 3 | SEO | [SEO Website Audit Tool](https://github.com/hasnaat-anjum/seo-website-audit-tool) |
 
 ### 📊 GitHub stats
 
