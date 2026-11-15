@@ -58,6 +58,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[eBay Listing Optimizer](https://github.com/hasnaat-anjum/ebay-listing-optimizer)** — score any eBay listing 0–100 and get a prioritised fix list for its title, description, photos, item specifics, price and policies. Includes an 80-character title builder and a batch mode that ranks your weakest listings first. Built with Python (standard library only) for eBay sellers, dropshippers and small business owners. *(Daily Project Series — Day 5: Marketplace Seller Tools, 14 Nov 2026)*
 
+**[Freelance Invoice Generator](https://github.com/hasnaat-anjum/freelance-invoice-generator)** — create a professional invoice in under a minute: line items with live totals, tax and discount, 6 currencies (PKR, USD, GBP, EUR, INR, AED), a printable preview and Save as PDF, plus saved invoice history in your browser — no sign-up, no backend. Built with HTML, CSS and vanilla JavaScript for freelancers, sellers and small business owners. *(Daily Project Series — Day 6: Frontend Development, 15 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -72,6 +74,7 @@ marketers and small business owners.
 | 3 | SEO | [SEO Website Audit Tool](https://github.com/hasnaat-anjum/seo-website-audit-tool) |
 | 4 | eBay Dropshipping | [eBay Dropshipping Profit Calculator](https://github.com/hasnaat-anjum/ebay-dropshipping-profit-calculator) |
 | 5 | Marketplace Seller Tools | [eBay Listing Optimizer](https://github.com/hasnaat-anjum/ebay-listing-optimizer) |
+| 6 | Frontend Development | [Freelance Invoice Generator](https://github.com/hasnaat-anjum/freelance-invoice-generator) |
 
 ### 📊 GitHub stats
 
