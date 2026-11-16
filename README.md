@@ -60,6 +60,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[Freelance Invoice Generator](https://github.com/hasnaat-anjum/freelance-invoice-generator)** — create a professional invoice in under a minute: line items with live totals, tax and discount, 6 currencies (PKR, USD, GBP, EUR, INR, AED), a printable preview and Save as PDF, plus saved invoice history in your browser — no sign-up, no backend. Built with HTML, CSS and vanilla JavaScript for freelancers, sellers and small business owners. *(Daily Project Series — Day 6: Frontend Development, 15 Nov 2026)*
 
+**[AI Meeting Notes Summarizer](https://github.com/hasnaat-anjum/ai-meeting-notes-summarizer)** — turn a meeting transcript into a summary, key decisions, action items with owners and due dates, talk-time stats and a ready-to-send follow-up email draft. Built with Python (standard library only), no API key needed, for freelancers, sellers and small business owners. *(Daily Project Series — Day 7: AI Automation, 16 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -75,6 +77,7 @@ marketers and small business owners.
 | 4 | eBay Dropshipping | [eBay Dropshipping Profit Calculator](https://github.com/hasnaat-anjum/ebay-dropshipping-profit-calculator) |
 | 5 | Marketplace Seller Tools | [eBay Listing Optimizer](https://github.com/hasnaat-anjum/ebay-listing-optimizer) |
 | 6 | Frontend Development | [Freelance Invoice Generator](https://github.com/hasnaat-anjum/freelance-invoice-generator) |
+| 7 | AI Automation | [AI Meeting Notes Summarizer](https://github.com/hasnaat-anjum/ai-meeting-notes-summarizer) |
 
 ### 📊 GitHub stats
 
