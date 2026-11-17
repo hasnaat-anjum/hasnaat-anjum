@@ -62,6 +62,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[AI Meeting Notes Summarizer](https://github.com/hasnaat-anjum/ai-meeting-notes-summarizer)** — turn a meeting transcript into a summary, key decisions, action items with owners and due dates, talk-time stats and a ready-to-send follow-up email draft. Built with Python (standard library only), no API key needed, for freelancers, sellers and small business owners. *(Daily Project Series — Day 7: AI Automation, 16 Nov 2026)*
 
+**[Hashtag Research Tool](https://github.com/hasnaat-anjum/hashtag-research-tool)** — find, check and export the right hashtags for your posts: balanced broad / medium / niche sets for 10 niches and 5 platforms, banned and spammy tag detection, and caption analysis with a tier breakdown. Built with Python (standard library only), no API key needed, for freelancers, sellers, marketers and small business owners. *(Daily Project Series — Day 8: Digital Marketing, 17 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -78,6 +80,7 @@ marketers and small business owners.
 | 5 | Marketplace Seller Tools | [eBay Listing Optimizer](https://github.com/hasnaat-anjum/ebay-listing-optimizer) |
 | 6 | Frontend Development | [Freelance Invoice Generator](https://github.com/hasnaat-anjum/freelance-invoice-generator) |
 | 7 | AI Automation | [AI Meeting Notes Summarizer](https://github.com/hasnaat-anjum/ai-meeting-notes-summarizer) |
+| 8 | Digital Marketing | [Hashtag Research Tool](https://github.com/hasnaat-anjum/hashtag-research-tool) |
 
 ### 📊 GitHub stats
 
