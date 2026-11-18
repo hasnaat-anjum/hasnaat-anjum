@@ -64,6 +64,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[Hashtag Research Tool](https://github.com/hasnaat-anjum/hashtag-research-tool)** — find, check and export the right hashtags for your posts: balanced broad / medium / niche sets for 10 niches and 5 platforms, banned and spammy tag detection, and caption analysis with a tier breakdown. Built with Python (standard library only), no API key needed, for freelancers, sellers, marketers and small business owners. *(Daily Project Series — Day 8: Digital Marketing, 17 Nov 2026)*
 
+**[Internal Link Optimizer](https://github.com/hasnaat-anjum/internal-link-optimizer)** — find the internal links your site is missing: crawl any website (or a local folder of HTML), map the link graph, spot orphan, weakly linked and broken pages, and get ranked link suggestions with real anchor text taken from your own content. Built with Python (standard library only), no API key needed, for SEOs, bloggers, freelancers and small business owners. *(Daily Project Series — Day 9: SEO, 18 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -81,6 +83,7 @@ marketers and small business owners.
 | 6 | Frontend Development | [Freelance Invoice Generator](https://github.com/hasnaat-anjum/freelance-invoice-generator) |
 | 7 | AI Automation | [AI Meeting Notes Summarizer](https://github.com/hasnaat-anjum/ai-meeting-notes-summarizer) |
 | 8 | Digital Marketing | [Hashtag Research Tool](https://github.com/hasnaat-anjum/hashtag-research-tool) |
+| 9 | SEO | [Internal Link Optimizer](https://github.com/hasnaat-anjum/internal-link-optimizer) |
 
 ### 📊 GitHub stats
 
