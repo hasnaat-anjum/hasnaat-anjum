@@ -66,6 +66,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[Internal Link Optimizer](https://github.com/hasnaat-anjum/internal-link-optimizer)** — find the internal links your site is missing: crawl any website (or a local folder of HTML), map the link graph, spot orphan, weakly linked and broken pages, and get ranked link suggestions with real anchor text taken from your own content. Built with Python (standard library only), no API key needed, for SEOs, bloggers, freelancers and small business owners. *(Daily Project Series — Day 9: SEO, 18 Nov 2026)*
 
+**[eBay Dropshipping Order Manager](https://github.com/hasnaat-anjum/ebay-dropshipping-order-manager)** — track every dropshipping order from sale to delivery: real profit per order after eBay fees, alerts for overdue, unshipped and loss-making orders, and a supplier scorecard with delivery times, on-time rates and return rates. Imports eBay sales CSVs and exports HTML reports. Built with Python (standard library only), no API key needed, for dropshippers, sellers and small business owners. *(Daily Project Series — Day 10: eBay Dropshipping, 19 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -84,6 +86,7 @@ marketers and small business owners.
 | 7 | AI Automation | [AI Meeting Notes Summarizer](https://github.com/hasnaat-anjum/ai-meeting-notes-summarizer) |
 | 8 | Digital Marketing | [Hashtag Research Tool](https://github.com/hasnaat-anjum/hashtag-research-tool) |
 | 9 | SEO | [Internal Link Optimizer](https://github.com/hasnaat-anjum/internal-link-optimizer) |
+| 10 | eBay Dropshipping | [eBay Dropshipping Order Manager](https://github.com/hasnaat-anjum/ebay-dropshipping-order-manager) |
 
 ### 📊 GitHub stats
 
