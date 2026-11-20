@@ -68,6 +68,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[eBay Dropshipping Order Manager](https://github.com/hasnaat-anjum/ebay-dropshipping-order-manager)** — track every dropshipping order from sale to delivery: real profit per order after eBay fees, alerts for overdue, unshipped and loss-making orders, and a supplier scorecard with delivery times, on-time rates and return rates. Imports eBay sales CSVs and exports HTML reports. Built with Python (standard library only), no API key needed, for dropshippers, sellers and small business owners. *(Daily Project Series — Day 10: eBay Dropshipping, 19 Nov 2026)*
 
+**[Multi-Marketplace Inventory Sync](https://github.com/hasnaat-anjum/multi-marketplace-inventory-sync)** — keep stock in sync across eBay, Etsy, Facebook Marketplace, Depop, Mercari and Poshmark: one master stock list, an oversell guard that stops a sale from ever selling stock you no longer have, sync checks that catch channel mismatches, and per-channel fees with net profit per sale. Built with Python (standard library only), no API key needed, for multi-marketplace sellers and small business owners. *(Daily Project Series — Day 11: Marketplace Seller Tools, 20 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -87,6 +89,7 @@ marketers and small business owners.
 | 8 | Digital Marketing | [Hashtag Research Tool](https://github.com/hasnaat-anjum/hashtag-research-tool) |
 | 9 | SEO | [Internal Link Optimizer](https://github.com/hasnaat-anjum/internal-link-optimizer) |
 | 10 | eBay Dropshipping | [eBay Dropshipping Order Manager](https://github.com/hasnaat-anjum/ebay-dropshipping-order-manager) |
+| 11 | Marketplace Seller Tools | [Multi-Marketplace Inventory Sync](https://github.com/hasnaat-anjum/multi-marketplace-inventory-sync) |
 
 ### 📊 GitHub stats
 
