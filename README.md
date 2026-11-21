@@ -70,6 +70,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[Multi-Marketplace Inventory Sync](https://github.com/hasnaat-anjum/multi-marketplace-inventory-sync)** — keep stock in sync across eBay, Etsy, Facebook Marketplace, Depop, Mercari and Poshmark: one master stock list, an oversell guard that stops a sale from ever selling stock you no longer have, sync checks that catch channel mismatches, and per-channel fees with net profit per sale. Built with Python (standard library only), no API key needed, for multi-marketplace sellers and small business owners. *(Daily Project Series — Day 11: Marketplace Seller Tools, 20 Nov 2026)*
 
+**[Freelance Money Planner](https://github.com/hasnaat-anjum/freelance-money-planner)** — plan irregular freelance income properly: a 3-month average and a safe monthly budget, a tax pot set aside before you can spend it, envelope budgets, recurring-bill alerts, savings goals with a monthly target, and a printable monthly report with charts. Free, offline, no account — your data stays in your browser. Built with HTML, CSS and vanilla JavaScript for freelancers, sellers and small business owners. *(Daily Project Series — Day 12: Frontend Development, 21 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -90,6 +92,7 @@ marketers and small business owners.
 | 9 | SEO | [Internal Link Optimizer](https://github.com/hasnaat-anjum/internal-link-optimizer) |
 | 10 | eBay Dropshipping | [eBay Dropshipping Order Manager](https://github.com/hasnaat-anjum/ebay-dropshipping-order-manager) |
 | 11 | Marketplace Seller Tools | [Multi-Marketplace Inventory Sync](https://github.com/hasnaat-anjum/multi-marketplace-inventory-sync) |
+| 12 | Frontend Development | [Freelance Money Planner](https://github.com/hasnaat-anjum/freelance-money-planner) |
 
 ### 📊 GitHub stats
 
