@@ -72,6 +72,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[Freelance Money Planner](https://github.com/hasnaat-anjum/freelance-money-planner)** — plan irregular freelance income properly: a 3-month average and a safe monthly budget, a tax pot set aside before you can spend it, envelope budgets, recurring-bill alerts, savings goals with a monthly target, and a printable monthly report with charts. Free, offline, no account — your data stays in your browser. Built with HTML, CSS and vanilla JavaScript for freelancers, sellers and small business owners. *(Daily Project Series — Day 12: Frontend Development, 21 Nov 2026)*
 
+**[AI Review Responder](https://github.com/hasnaat-anjum/ai-review-responder)** — draft replies to customer reviews in seconds: sentiment analysis, review-type classification, platform-aware drafts for eBay, Etsy, Amazon, Google and Facebook, batch CSV mode, reply scoring and history. Built with Python (standard library only), no API key needed, for sellers, freelancers and small business owners. *(Daily Project Series — Day 13: AI Automation, 22 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -93,6 +95,7 @@ marketers and small business owners.
 | 10 | eBay Dropshipping | [eBay Dropshipping Order Manager](https://github.com/hasnaat-anjum/ebay-dropshipping-order-manager) |
 | 11 | Marketplace Seller Tools | [Multi-Marketplace Inventory Sync](https://github.com/hasnaat-anjum/multi-marketplace-inventory-sync) |
 | 12 | Frontend Development | [Freelance Money Planner](https://github.com/hasnaat-anjum/freelance-money-planner) |
+| 13 | AI Automation | [AI Review Responder](https://github.com/hasnaat-anjum/ai-review-responder) |
 
 ### 📊 GitHub stats
 
