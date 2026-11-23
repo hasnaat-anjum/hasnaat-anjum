@@ -74,6 +74,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[AI Review Responder](https://github.com/hasnaat-anjum/ai-review-responder)** — draft replies to customer reviews in seconds: sentiment analysis, review-type classification, platform-aware drafts for eBay, Etsy, Amazon, Google and Facebook, batch CSV mode, reply scoring and history. Built with Python (standard library only), no API key needed, for sellers, freelancers and small business owners. *(Daily Project Series — Day 13: AI Automation, 22 Nov 2026)*
 
+**[Social Media Analytics Dashboard](https://github.com/hasnaat-anjum/social-media-analytics-dashboard)** — turn the CSV exports Instagram, Facebook, TikTok, LinkedIn and X already give you into one clear dashboard: best times to post, top and outlier posts, content-type and hashtag rankings, weekly trends, follower growth and plain-language recommendations with real numbers behind them. Built with Python (standard library only), no API key needed, for creators, freelancers, marketers and small business owners. *(Daily Project Series — Day 14: Digital Marketing, 23 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -96,6 +98,7 @@ marketers and small business owners.
 | 11 | Marketplace Seller Tools | [Multi-Marketplace Inventory Sync](https://github.com/hasnaat-anjum/multi-marketplace-inventory-sync) |
 | 12 | Frontend Development | [Freelance Money Planner](https://github.com/hasnaat-anjum/freelance-money-planner) |
 | 13 | AI Automation | [AI Review Responder](https://github.com/hasnaat-anjum/ai-review-responder) |
+| 14 | Digital Marketing | [Social Media Analytics Dashboard](https://github.com/hasnaat-anjum/social-media-analytics-dashboard) |
 
 ### 📊 GitHub stats
 
