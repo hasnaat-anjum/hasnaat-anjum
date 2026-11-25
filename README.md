@@ -78,6 +78,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[SEO Content Brief Generator](https://github.com/hasnaat-anjum/seo-content-brief-generator)** — turn a keyword and your competitors' pages into a writer's brief in seconds: a merged outline with word counts, must-include terms, questions to answer, title and meta description options, gaps to win, and a draft scorer that grades your writing 0–100 against the brief. Built with Python (standard library only), no API key needed, for freelance SEO writers, content marketers and small business owners. *(Daily Project Series — Day 15: SEO, 24 Nov 2026)*
 
+**[eBay Supplier Price Monitor](https://github.com/hasnaat-anjum/ebay-supplier-price-monitor)** — watch your suppliers so a price rise or stock-out never eats your margin: track supplier prices and stock for every eBay listing, recompute your real profit after eBay fees, get alerts with the exact new eBay price that restores your margin, and see a reliability scorecard for each supplier. Built with Python (standard library only), no API key needed, for dropshippers, eBay sellers and small business owners. *(Daily Project Series — Day 16: eBay Dropshipping, 25 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -102,6 +104,7 @@ marketers and small business owners.
 | 13 | AI Automation | [AI Review Responder](https://github.com/hasnaat-anjum/ai-review-responder) |
 | 14 | Digital Marketing | [Social Media Analytics Dashboard](https://github.com/hasnaat-anjum/social-media-analytics-dashboard) |
 | 15 | SEO | [SEO Content Brief Generator](https://github.com/hasnaat-anjum/seo-content-brief-generator) |
+| 16 | eBay Dropshipping | [eBay Supplier Price Monitor](https://github.com/hasnaat-anjum/ebay-supplier-price-monitor) |
 
 ### 📊 GitHub stats
 
