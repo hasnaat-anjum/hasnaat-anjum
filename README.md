@@ -80,6 +80,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[eBay Supplier Price Monitor](https://github.com/hasnaat-anjum/ebay-supplier-price-monitor)** — watch your suppliers so a price rise or stock-out never eats your margin: track supplier prices and stock for every eBay listing, recompute your real profit after eBay fees, get alerts with the exact new eBay price that restores your margin, and see a reliability scorecard for each supplier. Built with Python (standard library only), no API key needed, for dropshippers, eBay sellers and small business owners. *(Daily Project Series — Day 16: eBay Dropshipping, 25 Nov 2026)*
 
+**[Multi-Marketplace Listing Publisher](https://github.com/hasnaat-anjum/multi-marketplace-listing-publisher)** — write one master listing and get ready-to-publish listings for eBay, Etsy, Facebook Marketplace, Depop, Mercari, Poshmark and Vinted: each formatted to that channel's title limits, description style and fees, with fee-adjusted prices, a 0–100 quality score and a delist checklist so an item never sells twice. Built with Python (standard library only), no API key needed, for multi-marketplace sellers and small business owners. *(Daily Project Series — Day 17: Marketplace Seller Tools, 26 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -105,6 +107,7 @@ marketers and small business owners.
 | 14 | Digital Marketing | [Social Media Analytics Dashboard](https://github.com/hasnaat-anjum/social-media-analytics-dashboard) |
 | 15 | SEO | [SEO Content Brief Generator](https://github.com/hasnaat-anjum/seo-content-brief-generator) |
 | 16 | eBay Dropshipping | [eBay Supplier Price Monitor](https://github.com/hasnaat-anjum/ebay-supplier-price-monitor) |
+| 17 | Marketplace Seller Tools | [Multi-Marketplace Listing Publisher](https://github.com/hasnaat-anjum/multi-marketplace-listing-publisher) |
 
 ### 📊 GitHub stats
 
