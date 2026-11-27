@@ -82,6 +82,8 @@ and small business owners. *(Daily Project Series — Day 3: SEO, 12 Nov 2026)*
 
 **[Multi-Marketplace Listing Publisher](https://github.com/hasnaat-anjum/multi-marketplace-listing-publisher)** — write one master listing and get ready-to-publish listings for eBay, Etsy, Facebook Marketplace, Depop, Mercari, Poshmark and Vinted: each formatted to that channel's title limits, description style and fees, with fee-adjusted prices, a 0–100 quality score and a delist checklist so an item never sells twice. Built with Python (standard library only), no API key needed, for multi-marketplace sellers and small business owners. *(Daily Project Series — Day 17: Marketplace Seller Tools, 26 Nov 2026)*
 
+**[Freelance Client Portal Builder](https://github.com/hasnaat-anjum/freelance-client-portal)** — build a branded client portal page for any freelance project: milestones with dates and deliverables, a payment schedule with overdue flags, a checklist of what you still need from the client, latest updates and FAQs — then export it as one self-contained HTML file to send the client. No account, no expiry, no backend. Built with HTML, CSS and vanilla JavaScript for freelancers, sellers and small business owners. *(Daily Project Series — Day 18: Frontend Development, 27 Nov 2026)*
+
 ### 🚀 Daily Project Series
 
 I ship **one practical project every day**, rotating through AI Automation,
@@ -108,6 +110,7 @@ marketers and small business owners.
 | 15 | SEO | [SEO Content Brief Generator](https://github.com/hasnaat-anjum/seo-content-brief-generator) |
 | 16 | eBay Dropshipping | [eBay Supplier Price Monitor](https://github.com/hasnaat-anjum/ebay-supplier-price-monitor) |
 | 17 | Marketplace Seller Tools | [Multi-Marketplace Listing Publisher](https://github.com/hasnaat-anjum/multi-marketplace-listing-publisher) |
+| 18 | Frontend Development | [Freelance Client Portal Builder](https://github.com/hasnaat-anjum/freelance-client-portal) |
 
 ### 📊 GitHub stats
 
